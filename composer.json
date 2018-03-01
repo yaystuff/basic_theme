@@ -4,7 +4,7 @@
   "type": "wordpress-theme",
   "source": {
   "description": "Basic theme",
-  "url": "https://bitbucket.org/brakkael/basic_theme"
+  "url": "https://bitbucket.org/brakkael/basic_theme",
   "type": "git"
   }
 }
