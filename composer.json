@@ -1,10 +1,15 @@
 {
-  "name": "brakkael/basic-theme",
-  "version": "1.0.0",
-  "type": "wordpress-theme",
-  "source": {
-  "description": "Basic theme",
-  "url": "https://bitbucket.org/brakkael/basic_theme",
-  "type": "git"
-  }
-}
+      "type": "package",
+      "package": {
+        "name": "yaystuff/basic-theme",
+        "version": "master",
+        "type": "wordpress-theme",
+        "source": {
+          "type": "vcs",
+          "url": "https://github.com/yaystuff/basic_theme"
+        },
+        "require" : {
+          "composer/installers": "v1.0.16"
+        }
+      }
+    }
