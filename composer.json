@@ -1,7 +1,10 @@
 {
   "name": "brakkael/basic-theme",
+  "version": "1.0.0",
   "type": "wordpress-theme",
-  "license": "GPLv3",
+  "source": {
   "description": "Basic theme",
-  "homepage": "https://bitbucket.org/brakkael/basic_theme"
+  "url": "https://bitbucket.org/brakkael/basic_theme"
+  "type": "git"
+  }
 }
