@@ -1,7 +1,7 @@
 {
       "type": "package",
       "package": {
-        "name": "yaystuff/basic-theme",
+        "name": "yaystuff/basic_theme",
         "version": "master",
         "type": "wordpress-theme",
         "source": {
